@@ -1,2 +1,0 @@
-python-telegram-bot==13.7
-sklearn==0.0

@@ -1,11 +1,31 @@
-# Чат бот в телеграме с искусственным интелектом!
-+ Беседа с Электроником!
-+ @electronic_chat_bot
+<h1 align="center">Telegram Bot <br> COVID - Статистика</h1>
 
-#### Для подключения нужно сделать следующее:
-+ Настроить среду разработки( установить все библиотеки и jupyter)
-+ Установить телеграм бот командой: 
-pip install python-telegram-bot --upgrade
-+ Поочередно запустить все блоки программы и не останавливать
-+ Найти в телеграме бота и начать общение
+## Описание
 
+
+### Используемые технологии
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![NodeJS](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+
+
+### Используемые плагины/библиотеки (npm)
+[![Telegraf](https://img.shields.io/badge/-Telegraf.js-black?style=flat-square&logo=telegraf.js)](https://www.npmjs.com/package/telegraf)
+[![Covid19-API](https://img.shields.io/badge/-Covid19_api-black?style=flat-square&logo=covid19-api)](https://www.npmjs.com/package/covid19-api)
+
+
+### Запуск проекта для Windows
+
+1-Запустить проект в IDE, например, в WebStorm
+
+2 - Установить все зависимости и плагины
+```
+npm install
+```
+3 - Создать в проекте .env
+```
+copy example.env .env
+```
+4 - Запустить бота
+```
+npm start
+```
