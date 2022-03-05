@@ -25,7 +25,9 @@ npm install
 ```
 copy example.env .env
 ```
-4 - Запустить бота
+4 - Вставить токен от бота в .env
+
+5 - Запустить бота
 ```
 npm start
 ```
