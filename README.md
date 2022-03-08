@@ -1,7 +1,7 @@
 <h1 align="center">Telegram Bot <br> COVID - Статистика</h1>
 
 ## Описание
-
+Телеграм бот, который показывает полную статистику COVID 19 по странам. Для этого достаточно ввести название страны, например, russia, us, italy.
 
 ### Используемые технологии
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
