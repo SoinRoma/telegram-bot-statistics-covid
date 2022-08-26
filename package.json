@@ -1,12 +1,12 @@
 {
-  "name": "telegram-bot",
-  "version": "1.0.0",
-  "description": "",
+  "name": "telegram-bot-statistics-covid",
+  "version": "1.0.1",
+  "description": "Telegram bot that shows full COVID 19 statistics by country.",
   "main": "index.js",
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "",
+  "author": "Soin Roman",
   "license": "ISC",
   "dependencies": {
     "covid19-api": "^1.2.1",
